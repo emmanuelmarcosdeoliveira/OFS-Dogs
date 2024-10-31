@@ -10,6 +10,8 @@
   --color6: #666;
   --color-white: #fff;
   --shadow: 0 0 0 3px #fea, 0 0 0 4px #fb1;
+  --shadowHeader: 0px 1px 1px rgba(0, 0, 0, 0.1);
+  --shadowInput: 0 0 0 3px #fea;
   /* Tipografy */
   --type-first: Helvetica, Arial, sans-serif;
   --type-second: "Spectral", georgia;
@@ -44,6 +46,7 @@ img {
   display: block;
   max-width: 100%;
 }
+
 button,
 input {
   display: block;
