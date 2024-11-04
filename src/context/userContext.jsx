@@ -61,7 +61,6 @@ export const UserStorage = ({ children }) => {
           if (!response.ok) throw new Error("Token Inválido");
           await getUser(token);
         } catch (err) {
-          setError(err.message);
           userLogout();
         } finally {
           setLoading(false);

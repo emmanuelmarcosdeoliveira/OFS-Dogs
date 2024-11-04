@@ -7,7 +7,6 @@ import { UserStorage } from "./context/userContext";
 import User from "./components/User";
 import "./styles/App.css";
 import ProtectedRoute from "./helper/ProtectedRoute";
-
 function App() {
   return (
     <>
