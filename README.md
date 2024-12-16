@@ -54,7 +54,7 @@ Nesse projeto utilizei tecnologias, como `React`,`JavaScript`,`CSS-modules`,`Rea
 - useContext
 - use<br>
 
-> Nesse Projeto foi utilizado uma biblioteca para a geração de gráficos de > quantidades de visualizações de uma determinada foto, a `lib Victory`.<br>
+> Nesse Projeto foi utilizado uma biblioteca para a geração de gráficos de quantidades de visualizações de uma determinada foto, a `lib Victory`.<br>
 
 Minha fonte de motivação deste projeto foi a [Origamid](https://www.origamid.com).<br>
 
@@ -103,7 +103,7 @@ Requisitos necessários para rodar o projeto:<br>
 
 ## Instalation
 
-Para rodar o projeto em seu computador você tera que fazer o [fork](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) do repositório. Caso você não saiba como fazer, estou deixando um **link** da documentação oficial do gitHub, onde é esclarecido como fazer essse processo.<br> Fazendo esse processo você tera uma copia desse Repositório no seu GitHub.
+Para rodar o projeto em seu computador você tera que fazer o [fork](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) do repositório. Caso você não saiba como fazer, estou deixando um **link** da documentação oficial do gitHub, onde é esclarecido como fazer esse processo.<br> Fazendo esse processo você tera uma copia desse Repositório no seu GitHub.
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/-path?style=social&logo=git&label=GitHub%20Docs&color=%23000">
 <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo"></a>
@@ -130,7 +130,7 @@ Com o **VSCode** aberto, abra o **terminal**. pelo **VsCode** e vamos fazer a in
 
 **Pnpm**
 
-</sdetais>
+</details>
 
 <sub>Command Line</sub>
 
@@ -152,7 +152,7 @@ pnpm  install
 
 **Pnpm**
 
-</sdetais>
+</details>
 
 <sub>Command Line</sub>
 
@@ -162,7 +162,7 @@ pnpm dev
 
 </br>
 
-> Ira aparecer um Pop-up solicitanto que você clique para acessar o projeto no seu navegador.
+> Ira aparecer um Pop-up solicitando que você clique para acessar o projeto no seu navegador.
 > Segure a tecla <strong> Control </strong> e clique no local especificado, o projeto será aberto em uma nova aba do seu navegador Preferido.
 
 ### Back-end
@@ -187,7 +187,7 @@ https://dogsapi.origamid.dev/json
 
 <!-- <h3 align="center">📽️project demonstration video</h3>
 <br>
-<p align="center">Video de Demostraçào</p>
+<p align="center">Video de Demostração</p>
 
 https://github.com/emmanuelmarcosdeoliveira/animais-fantasticos/assets/116108389/660fb676-c9a6-4083-b28c-8e952eaa6345 -->
 
