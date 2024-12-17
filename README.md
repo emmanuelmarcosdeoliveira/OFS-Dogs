@@ -2,7 +2,6 @@
  <img src="./public/github/banner.png" alt="Banner OFS">
 <br>
 <br>
-
 <!-- Titulo do Projeto -->
 <div align="center">
 <img alt="React" width="48" height="48" src="./public/github/react.svg"/></br>
