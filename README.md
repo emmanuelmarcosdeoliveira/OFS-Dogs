@@ -46,12 +46,16 @@
 ## Project Description
 
 **Dogs** é uma aplicação Web Desenvolvida com `React` e `JavaScript` de uma Rede Social par cachorros, elá é uma aplicação Front-end onde fazemos o consumo de uma `API Rest` desenvolvida em `WordPress`<br>
-Nesse projeto utilizei tecnologias, como `React`,`JavaScript`,`CSS-modules`,`React-Router v6` para o gerenciamento de Rotas e também fiz o uso de alguns Hooks do React como:<br>
+Nesse projeto utilizei tecnologias, como `React`,`JavaScript`,`CSS-modules`,`React-Router v6` para o gerenciamento de Rotas e configuração de rotas protegias e também fiz o uso de alguns Hooks do React como:<br>
 
 - useState
 - useEffect
 - useContext
-- use<br>
+- React Lazy
+- useReducer
+- useFetch
+- useForms
+  <br>
 
 > Nesse Projeto foi utilizado uma biblioteca para a geração de gráficos de quantidades de visualizações de uma determinada foto, a `lib Victory`.<br>
 
@@ -176,26 +180,24 @@ https://dogsapi.origamid.dev/json
 
 <br>
  <!-- Imagem de Demostração -->
-<h3 align="center"> Imagem de demostração do Projeto</h3>
+<!-- <h3 align="center"> Video de demostração do Projeto</h3>
 
 </br>
 </br>
 
 <img src="./public/assets/image-1.png" alt="Print do Projeto"/>
-<img src="./public/assets/iamge-2.png" alt="Print do Projeto"/>
+<img src="./public/assets/iamge-2.png" alt="Print do Projeto"/> -->
 
-<!-- <h3 align="center">📽️project demonstration video</h3>
+<h3 align="center">📽️project demonstration video</h3>
 <br>
 <p align="center">Video de Demostração</p>
-
-https://github.com/emmanuelmarcosdeoliveira/animais-fantasticos/assets/116108389/660fb676-c9a6-4083-b28c-8e952eaa6345 -->
 
 <br>
  <div align="center">
 Acesse a versão on-line Projeto clicando no Link Abaixo
 <br>
 <br>
-<a href="https://estrela-do-amanha.vercel.app/">
+<a href="https://ofs-dogs.vercel.app/">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
