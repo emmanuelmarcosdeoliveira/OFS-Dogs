@@ -182,11 +182,11 @@ https://dogsapi.origamid.dev/json
  <!-- Imagem de Demostração -->
 <!-- <h3 align="center"> Video de demostração do Projeto</h3>
 
-</br>
+<!-- </br>
 </br>
 
 <img src="./public/assets/image-1.png" alt="Print do Projeto"/>
-<img src="./public/assets/iamge-2.png" alt="Print do Projeto"/> -->
+<img src="./public/assets/iamge-2.png" alt="Print do Projeto"/> --> -->
 
 <h3 align="center">📽️project demonstration video</h3>
 <br>
