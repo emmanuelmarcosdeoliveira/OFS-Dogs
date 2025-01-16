@@ -45,7 +45,7 @@
 
 ## Project Description
 
-**Dogs** é uma aplicação Web Desenvolvida com `React` e `JavaScript` de uma Rede Social par cachorros, elá é uma aplicação Front-end onde fazemos o consumo de uma `API Rest` desenvolvida em `WordPress`. Nesse projeto utilizei tecnologias, como `React`,`JavaScript`,`CSS-modules`, e `React-Router v6` para o gerenciamento de Rotas e configuração de rotas protegias e também fiz o uso de alguns Hooks do React como:<br>
+**Dogs** é uma aplicação Web Desenvolvida com `React` e `JavaScript` de uma Rede Social de imagens de cachorros, elá é uma aplicação Front-end onde fazemos o consumo de uma `API Rest` desenvolvida em `WordPress`. Nesse projeto utilizei tecnologias, como `React`,`JavaScript`,`CSS-modules`, e `React-Router v6` para o gerenciamento de Rotas e configuração de rotas protegias e também fiz o uso de alguns Hooks do React como:<br>
 
 - useState
 - useEffect
@@ -174,7 +174,6 @@ Segue abaixo o link de acesso da API
 
 ```bash
 https://dogsapi.origamid.dev/json
-
 ```
 
 <br>
@@ -185,7 +184,7 @@ https://dogsapi.origamid.dev/json
 </br>
 
 <img src="./public/assets/image-1.png" alt="Print do Projeto"/>
-<img src="./public/assets/iamge-2.png" alt="Print do Projeto"/> --> -->
+<img src="./public/assets/iamge-2.png" alt="Print do Projeto"/> -->
 
 <h3 align="center">📽️project demonstration video</h3>
 <br>
